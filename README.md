@@ -7,7 +7,7 @@ I'm an engineer-in-training, full-stack developer by choice, and problem solver 
 👯 I’m looking to collaborate on full-stack web apps, open-source projects, or developer tools that push boundaries.
 
 
-📫 How to reach me: deepak.pradhan4364@gmail.com or connect with me on LinkedIn
+📫 How to reach me: deepak.pradhan4364@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/deepakpradhan10242/)
 
 
 ⚡ Fun fact: I once helped 50+ people build and deploy their first websites—and most of them didn’t know what a “div” was before that.
