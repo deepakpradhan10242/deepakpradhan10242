@@ -11,4 +11,6 @@ I'm an engineer-in-training, full-stack developer by choice, and problem solver 
 
 ⚡ Fun fact: I once helped 50+ people build and deploy their first websites—and most of them didn’t know what a “div” was before that.
 
-## You can see me work below
+## You can see me work below.
+.
+.
