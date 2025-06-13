@@ -1,4 +1,4 @@
-##👋 Hi there, I'm Deepak Pradhan!
+## Hi there, I'm Deepak Pradhan!
 
 I'm an engineer-in-training, full-stack developer by choice, and problem solver by curiosity. I love simplifying complex ideas and building tools that make life easier, whether it’s through clean code, smart systems, or creative collaboration.
 
