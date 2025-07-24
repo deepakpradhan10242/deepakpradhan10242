@@ -9,8 +9,6 @@ I'm an engineer-in-training, full-stack developer by choice, and problem solver 
 
 📫 How to reach me: deepak.pradhan4364@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/deepakpradhan10242/) or [Portfolio](https://portfolio-deepak-pradhans-projects-7583db17.vercel.app/)
 
-⚡ Fun fact: I once helped 50+ people build and deploy their first websites—and most of them didn’t know what a “div” was before that.
-
 ## You can see my work below ...
 .
 .
