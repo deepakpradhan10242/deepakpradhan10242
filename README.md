@@ -26,7 +26,9 @@ I love simplifying complex ideas and building tools that make life easier—whet
 ## 🏅 Achievements & Badges
 ![Flipkart Grid 7.0 Semi-Finalist](https://img.shields.io/badge/Flipkart%20Grid-7.0%20Semi--Finalist-blue)
 ![Finance Club VP](https://img.shields.io/badge/Vice%20President-Finance%20Club%20BIT%20Mesra-orange)
-![LeetCode 700+ Problems](https://img.shields.io/badge/LeetCode-300%2B%20Problems-yellow?logo=leetcode)
+![Hackerrank Gold](https://img.shields.io/badge/HackerRank-Gold%20Badge-brightgreen?logo=hackerrank)
+![LeetCode 700+ Problems](https://img.shields.io/badge/LeetCode-700%2B%20Problems-yellow?logo=leetcode)
+![LeetCode Contest Rating 1800+](https://img.shields.io/badge/LeetCode-Contest%20Rating%201800%2B-orange?logo=leetcode)
 ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-success?logo=github)
 
 ---
