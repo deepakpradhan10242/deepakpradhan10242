@@ -17,54 +17,39 @@ deepak.pradhan4364@gmail.com / deepakpradhan10242@gmail.com
 
 ## 🛠 Tech Stack
 
-### Programming Languages
-- C++ (DSA, Competitive Programming)
-- JavaScript (ES6+)
-- TypeScript
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ### Frontend
-- React.js
-- Next.js
-- Vite
-- React Router
-- Tailwind CSS
-- Framer Motion
-- GSAP
-- Leaflet.js
-- HTML5, CSS3
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)
 
 ### Backend
-- Node.js
-- Express.js
-- RESTful APIs
-- JWT Authentication
-- Role-Based Access Control (RBAC)
-- Device-based Login Restriction
-- Bcrypt (Password Hashing)
-- Webhooks
-- Firebase Cloud Messaging (FCM)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase%20FCM-FFCA28?logo=firebase&logoColor=black)
+![Webhooks](https://img.shields.io/badge/Webhooks-4A90E2)
 
 ### Databases
-- MongoDB
-- Mongoose
-- Schema Design & Indexing
-
-### System Design & Backend Concepts
-- API Design & Versioning
-- Authentication & Authorization flows
-- HRMS & Attendance System Design
-- Notification Systems (FCM-based)
-- Pagination & Filtering
-- Scalability Fundamentals
-- Error Handling & Logging
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000)
 
 ### Tools & Platforms
-- Git & GitHub
-- Postman
-- VS Code
-- GitHub Pages
-- Vercel
-- Linux (Basics)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
