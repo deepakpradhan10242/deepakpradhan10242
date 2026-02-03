@@ -55,8 +55,8 @@ deepak.pradhan4364@gmail.com / deepakpradhan10242@gmail.com
 - Flipkart Grid 7.0 – Semi-Finalist  
 - Vice President – Finance Club, BIT Mesra  
 - HackerRank Gold Badge  
-- 700+ LeetCode Problems Solved  
-- LeetCode Contest Rating: 1800+  
+- 700+ LeetCode Problems Solved  [Profile](https://leetcode.com/u/d_pradhan/)
+- LeetCode Contest Rating: 1800+  [Profile](https://leetcode.com/u/d_pradhan/)
 - Open-Source Contributor  
 
 ---
