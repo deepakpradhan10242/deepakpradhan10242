@@ -1,72 +1,24 @@
-# Hi, I’m Deepak Pradhan 👋  
-
-🚀 Engineer-in-training | Full-Stack Developer | Problem Solver  
-
-I enjoy building scalable, maintainable, and real-world systems.  
-From crafting smooth frontend experiences to designing reliable backend APIs, I focus on clean architecture, performance, and clarity.
-
-🌱 Currently exploring System Design, Scalability & Backend Architecture  
-👯 Open to collaborating on full-stack apps, open-source projects, and developer tools  
-🎯 Strong inclination toward Backend & Distributed Systems  
-
-📫 Reach me at  
-deepak.pradhan4364@gmail.com / deepakpradhan10242@gmail.com  
-[LinkedIn](https://linkedin.com/in/deepakpradhan10242/) • [Portfolio](https://portfolio-deepak-pradhans-projects-7583db17.vercel.app/)
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![React Router](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+# 💫 About Me:
+Hi, I’m Deepak Pradhan 👋<br>🚀 Engineer-in-training | Full-Stack Developer | Problem Solver<br><br>I enjoy building scalable, maintainable, and real-world systems.<br>From crafting smooth frontend experiences to designing reliable backend APIs, I focus on clean architecture, performance, and clarity.<br><br>🌱 Currently exploring System Design, Scalability & Backend Architecture<br>👯 Open to collaborating on full-stack apps, open-source projects, and developer tools<br>🎯 Strong inclination toward Backend & Distributed Systems<br><br>📫 Reach me at<br>deepak.pradhan4364@gmail.com / deepakpradhan10242@gmail.com<br>LinkedIn • Portfolio<br><br>🛠 Tech Stack<br>Languages<br>C++ JavaScript TypeScript<br><br>Frontend<br>React Next.js Vite React Router Tailwind CSS<br><br>Backend<br>Node.js Express JWT Firebase Webhooks<br><br>Databases<br>MongoDB Mongoose<br><br>Tools & Platforms<br>Git GitHub Postman VS Code Vercel Linux
 
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase%20FCM-FFCA28?logo=firebase&logoColor=black)
-![Webhooks](https://img.shields.io/badge/Webhooks-4A90E2)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepakpradhan10242/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepak.pradhan4364@gmail.com) 
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=deepakpradhan10242&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=deepakpradhan10242&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakpradhan10242&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=deepakpradhan10242&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=deepakpradhan10242&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=deepakpradhan10242&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏅 Achievements & Highlights
-- Flipkart Grid 7.0 – Semi-Finalist  
-- Vice President – Finance Club, BIT Mesra  
-- HackerRank Gold Badge  
-- 700+ LeetCode Problems Solved  [Profile](https://leetcode.com/u/d_pradhan/)
-- LeetCode Contest Rating: 1800+  [Profile](https://leetcode.com/u/d_pradhan/)
-- Open-Source Contributor  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakpradhan10242&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakpradhan10242&layout=compact&theme=dark&hide_border=true)
-
----
-
-> “Good systems are built not just to work—but to scale, adapt, and last.”
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
